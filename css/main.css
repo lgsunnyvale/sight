@@ -27,6 +27,13 @@
 }
 
 @font-face {
+  font-family: 'Source Code Pro';
+  font-style: Regular;
+  font-weight: normal;
+  src: url(chrome-extension://__MSG_@@extension_id__/css/Source\ Code\ Pro.ttf);
+}
+
+@font-face {
   font-family: 'DejaVuSansMono';
   font-style: normal;
   font-weight: normal;

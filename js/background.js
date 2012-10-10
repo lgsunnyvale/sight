@@ -36,8 +36,8 @@
   };
 
   const OPTIONS_DEFAULTS = {
-    theme: 'sunburst',
-    font: 'Inconsolata',
+    theme: 'zenburn',
+    font: 'Source Code Pro',
     lineNumbers: false
   };
 

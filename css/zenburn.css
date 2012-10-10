@@ -12,6 +12,7 @@ body, pre {
 pre {
   display: block; padding: 0.5em;
   color: #DCDCDC;
+  line-height: 1.5em;
 }
 
 pre .keyword,
